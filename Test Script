@@ -1,0 +1,10 @@
+#@tittle **TS**
+
+import os
+import subprocess
+
+http://remotedesktop.google.com/headless
+
+CRP = "" #@param {type:"string"}
+
+AUTOSTART = FALSE #@param {type:"boolean"}
